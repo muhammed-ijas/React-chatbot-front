@@ -40,33 +40,33 @@ import {
     {
       id: "0",
       title: "Features",
-      url: "#features",
+      url: "",
     },
     {
       id: "1",
       title: "Pricing",
-      url: "#pricing",
+      url: "",
     },
     {
       id: "2",
       title: "How to use",
-      url: "#how-to-use",
+      url: "",
     },
     {
       id: "3",
       title: "Roadmap",
-      url: "#roadmap",
+      url: "",
     },
     {
       id: "4",
       title: "New account",
-      url: "#signup",
+      url: "",
       onlyMobile: true,
     },
     {
       id: "5",
       title: "Sign in",
-      url: "#login",
+      url: "",
       onlyMobile: true,
     },
   ];
